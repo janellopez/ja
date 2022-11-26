@@ -248,6 +248,7 @@ span {
   border-radius: 0.5rem;
   border-bottom: 2px solid var(--main-color);
   box-shadow: 0 2px 7px rgb(14 55 54 / 15%);
+
 }
 .services-box:hover{
  background-color: #02225a;
